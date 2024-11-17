@@ -1,3 +1,3 @@
 # Pemrograman Mobile
 
-Tugas Pemrograman Mobile Kelompok 2
+Tugas Pemrograman Mobile
